@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\paint\OneDrive\Desktop\FinalProject\FinalProject\Source.cpp(172,11): warning C4778: 'printf' : unterminated format string '%'
+C:\Users\paint\OneDrive\Desktop\FinalProject\FinalProject\Source.cpp(172,26): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\paint\OneDrive\Desktop\FinalProject\FinalProject\Source.cpp(172,26): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\paint\OneDrive\Desktop\FinalProject\FinalProject\Source.cpp(185,23): warning C4060: switch statement contains no 'case' or 'default' labels
+  FinalProject.vcxproj -> C:\Users\paint\OneDrive\Desktop\FinalProject\x64\Debug\FinalProject.exe
